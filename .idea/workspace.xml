@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0654188e-7ca9-4d33-a23b-c3a7d7abbdee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/frontend/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/src/views/Signup.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/views/Home.vue" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bridge_summer@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bridge_summer@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bridge_summer@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bridge_summer: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaScript File" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1emefPRDVL2MmZxblf09pVkJL9I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/frontend/src/views" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/frontend/src/views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BridgeSummerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bridge-summer.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hyeop.bridgesummer.BridgeSummerApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=9000" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="bridge_summer@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="bridge_summer@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@104c96bb" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0654188e-7ca9-4d33-a23b-c3a7d7abbdee" name="Default Changelist" comment="" />
+      <created>1594931297470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594931297470</updated>
+      <workItem from="1594931307826" duration="15710000" />
+      <workItem from="1594971831904" duration="18770000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="944" y="517" width="800" height="717" key="#Intentions" timestamp="1595256582726">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="944" y="517" width="800" height="717" key="#Intentions/0.23.2688.1657@0.23.2688.1657" timestamp="1595256582726" />
+    <state x="944" y="517" key="#Project_Structure" timestamp="1595252973791">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="944" y="517" key="#Project_Structure/0.23.2688.1657@0.23.2688.1657" timestamp="1595252973791" />
+    <state x="944" y="517" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595233356417">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="944" y="517" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2688.1657@0.23.2688.1657" timestamp="1595233356417" />
+    <state x="1099" y="555" key="#com.intellij.ide.util.MemberChooser" timestamp="1595265465081">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="1099" y="555" key="#com.intellij.ide.util.MemberChooser/0.23.2688.1657@0.23.2688.1657" timestamp="1595265465081" />
+    <state x="953" y="363" key="CommitChangelistDialog2" timestamp="1595268265779">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="953" y="363" key="CommitChangelistDialog2/0.23.2688.1657@0.23.2688.1657" timestamp="1595268265779" />
+    <state x="1154" y="768" key="Github.CreateGistDialog" timestamp="1595267972061">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="1154" y="768" key="Github.CreateGistDialog/0.23.2688.1657@0.23.2688.1657" timestamp="1595267972061" />
+    <state x="1205" y="753" key="Github.ShareDialog" timestamp="1595268136358">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="1205" y="753" key="Github.ShareDialog/0.23.2688.1657@0.23.2688.1657" timestamp="1595268136358" />
+    <state x="1055" y="478" key="Github.UntrackedFilesDialog" timestamp="1595268212489">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="1055" y="478" key="Github.UntrackedFilesDialog/0.23.2688.1657@0.23.2688.1657" timestamp="1595268212489" />
+    <state width="2646" height="646" key="GridCell.Tab.0.bottom" timestamp="1595267854832">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state width="2006" height="469" key="GridCell.Tab.0.bottom/0.23.2048.1257@0.23.2048.1257" timestamp="1594967440880" />
+    <state width="2646" height="646" key="GridCell.Tab.0.bottom/0.23.2688.1657@0.23.2688.1657" timestamp="1595267854832" />
+    <state width="2646" height="646" key="GridCell.Tab.0.center" timestamp="1595267854832">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state width="2006" height="469" key="GridCell.Tab.0.center/0.23.2048.1257@0.23.2048.1257" timestamp="1594967440879" />
+    <state width="2646" height="646" key="GridCell.Tab.0.center/0.23.2688.1657@0.23.2688.1657" timestamp="1595267854832" />
+    <state width="2646" height="646" key="GridCell.Tab.0.left" timestamp="1595267854831">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state width="2006" height="469" key="GridCell.Tab.0.left/0.23.2048.1257@0.23.2048.1257" timestamp="1594967440878" />
+    <state width="2646" height="646" key="GridCell.Tab.0.left/0.23.2688.1657@0.23.2688.1657" timestamp="1595267854831" />
+    <state width="2646" height="646" key="GridCell.Tab.0.right" timestamp="1595267854832">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state width="2006" height="469" key="GridCell.Tab.0.right/0.23.2048.1257@0.23.2048.1257" timestamp="1594967440880" />
+    <state width="2646" height="646" key="GridCell.Tab.0.right/0.23.2688.1657@0.23.2688.1657" timestamp="1595267854832" />
+    <state width="2646" height="646" key="GridCell.Tab.1.bottom" timestamp="1595267854833">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state width="2006" height="469" key="GridCell.Tab.1.bottom/0.23.2048.1257@0.23.2048.1257" timestamp="1594967440882" />
+    <state width="2646" height="646" key="GridCell.Tab.1.bottom/0.23.2688.1657@0.23.2688.1657" timestamp="1595267854833" />
+    <state width="2646" height="646" key="GridCell.Tab.1.center" timestamp="1595267854833">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state width="2006" height="469" key="GridCell.Tab.1.center/0.23.2048.1257@0.23.2048.1257" timestamp="1594967440881" />
+    <state width="2646" height="646" key="GridCell.Tab.1.center/0.23.2688.1657@0.23.2688.1657" timestamp="1595267854833" />
+    <state width="2646" height="646" key="GridCell.Tab.1.left" timestamp="1595267854833">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state width="2006" height="469" key="GridCell.Tab.1.left/0.23.2048.1257@0.23.2048.1257" timestamp="1594967440881" />
+    <state width="2646" height="646" key="GridCell.Tab.1.left/0.23.2688.1657@0.23.2688.1657" timestamp="1595267854833" />
+    <state width="2646" height="646" key="GridCell.Tab.1.right" timestamp="1595267854833">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state width="2006" height="469" key="GridCell.Tab.1.right/0.23.2048.1257@0.23.2048.1257" timestamp="1594967440881" />
+    <state width="2646" height="646" key="GridCell.Tab.1.right/0.23.2688.1657@0.23.2688.1657" timestamp="1595267854833" />
+    <state x="994" y="472" key="NewModule_or_Project.wizard" timestamp="1595232889270">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="994" y="472" key="NewModule_or_Project.wizard/0.23.2688.1657@0.23.2688.1657" timestamp="1595232889270" />
+    <state x="1232" y="731" width="324" height="255" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1594933082267">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="1232" y="731" width="324" height="255" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.23.2688.1657@0.23.2688.1657" timestamp="1594933082267" />
+    <state x="1127" y="663" width="433" height="369" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1594933060302">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="1127" y="663" width="433" height="369" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.23.2688.1657@0.23.2688.1657" timestamp="1594933060302" />
+    <state x="1080" y="608" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1594973655199">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="823" y="467" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.2048.1257@0.23.2048.1257" timestamp="1594968212972" />
+    <state x="1080" y="608" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.2688.1657@0.23.2688.1657" timestamp="1594973655199" />
+    <state x="1147" y="770" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595267897773">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="1147" y="770" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2688.1657@0.23.2688.1657" timestamp="1595267897773" />
+    <state x="1089" y="574" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594931858612">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="1089" y="574" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.2688.1657@0.23.2688.1657" timestamp="1594931858612" />
+    <state x="672" y="263" width="703" height="777" key="find.popup" timestamp="1594966891936">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state x="672" y="263" width="703" height="777" key="find.popup/0.23.2048.1257@0.23.2048.1257" timestamp="1594966891936" />
+    <state x="773" y="551" key="new project wizard" timestamp="1594970032529">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="773" y="551" key="new project wizard/0.23.2688.1657@0.23.2688.1657" timestamp="1594970032529" />
+    <state x="1009" y="408" width="670" height="676" key="search.everywhere.popup" timestamp="1595230145527">
+      <screen x="0" y="23" width="2688" height="1657" />
+    </state>
+    <state x="1009" y="408" width="670" height="676" key="search.everywhere.popup/0.23.2688.1657@0.23.2688.1657" timestamp="1595230145527" />
+  </component>
+</project>
